@@ -37,8 +37,7 @@ def binary_search(ar,k):
    
 print("Rok 416:"+ binary_search(array_set,416))
 print("Rok 413:"+ binary_search(array_set,413))
-print("Rok 215:"+ binary_search(array_set,215))
-print("Rok 213:"+ binary_search(array_set,213))
+
 
 
 
